@@ -1,4 +1,4 @@
 # college-demo
 this is my frist repository
 <br>
-auther - manish
+auther - manish bhati
